@@ -1,0 +1,49 @@
+[{
+        "id": 6,
+        "name": "Workshops 1",
+        "about": "it's some workshop 1",
+        "contact": [{
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }, {
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": 7,
+        "name": "Workshops 2",
+        "about": "Unleash the programmer in you 2",
+        "contact": [{
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }, {
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": 8,
+        "name": "Workshops 3",
+        "about": "Unleash the programmer in you 3",
+        "contact": [{
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }, {
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": 9,
+        "name": "Workshops 4",
+        "about": "Unleash the programmer in you 4",
+        "contact": [{
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }, {
+            "name": "Mr. Someone",
+            "phone": "+919109191001"
+        }]
+    }
+]
