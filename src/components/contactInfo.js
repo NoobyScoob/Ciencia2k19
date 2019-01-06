@@ -7,14 +7,14 @@ const ContactInfo = () => {
             <div className="conveners">
                 <div className="conveners__head">
                     <img className="img-fluid" src={require('../img/human.png')} height="100" width="100" alt="human"/>
-                    <h4>Dr. KS Nayanathara</h4>
+                    <h4>Dr. K.S. Nayanathara</h4>
                     <h5>Principal</h5>
                 </div>
 
                 <div className="row">
                     <div className="col-md-4">
                         <img className="img-fluid" src={require('../img/human.png')} height="100" width="100" alt="human"/>
-                        <h4 >Dr. HN Lakshmi</h4>
+                        <h4 >Dr. H.N. Lakshmi</h4>
                         <h5>Professor, IT</h5>
                         <h5>CO-CONVENER</h5>
                     </div>
@@ -26,7 +26,7 @@ const ContactInfo = () => {
                     </div>
                     <div className="col-md-4">
                         <img className="img-fluid" src={require('../img/human.png')} height="100" width="100" alt="human"/>
-                        <h4>DR. N. Narayana</h4>
+                        <h4>Dr. N. Narayana</h4>
                         <h5>Professor, Civil</h5>
                         <h5>CO-CONVENER</h5>
                     </div>
@@ -48,7 +48,7 @@ const ContactInfo = () => {
                     </div>
                     <div className="col-md-3">
                         <img className="img-fluid" src={require('../img/human.png')} height="100" width="100" alt="human"/>
-                        <h4>Naval Kulakarni</h4>
+                        <h4>Naval Kulkarni</h4>
                         <h5>9160428004</h5>
                     </div>
                     <div className="col-md-3">

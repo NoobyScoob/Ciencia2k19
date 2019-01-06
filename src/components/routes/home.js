@@ -12,7 +12,7 @@ class Home extends Component {
                         <div className="col-md-6">
                             <h2 style={{textAlign:'center'}}>Events</h2>
                             <div className="event__links">
-                                <h6 style={{textAlign:'center'}}>Departmnets</h6>
+                                <h6 style={{textAlign:'center'}}>Departments</h6>
                                 <Link to="/events/departments/cse">CSE</Link>
                                 <Link to="/events/departments/it">IT</Link>
                                 <Link to="/events/departments/ece">ECE</Link>

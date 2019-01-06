@@ -18,8 +18,12 @@ const Footer = (props) => {
                 <div className="col-md-4">
                     <h6>Designed by</h6>
                     <p>NoobyScoob</p><br />
-                    <img style={{marginRight: '1rem'}} src={require('../img/github.svg')} alt="github" height="30" width="30"/>
-                    <img src={require('../img/instagram.svg')} alt="instagram" height="30" width="30"/>
+                    <a href="https://github.com/NoobyScoob/Ciencia2k19">
+                        <img style={{marginRight: '1rem'}} src={require('../img/github.svg')} alt="github" height="30" width="30"/>
+                    </a>
+                    <a href="https://www.instagram.com/cvrciencia2k19/">
+                        <img src={require('../img/instagram.svg')} alt="instagram" height="30" width="30"/>
+                    </a>
                 </div>
             </div>
         </footer>
