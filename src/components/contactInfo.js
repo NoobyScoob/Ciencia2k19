@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactInfo = () => {
     return (
-        <div className="container">
+        <div className="container" lang="en">
             <h2 style={{textAlign: 'center'}}><u>Conveners</u></h2>
             <div className="conveners">
                 <div className="conveners__head">
