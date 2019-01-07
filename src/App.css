@@ -17,7 +17,7 @@ body {
 .header__bg {
     z-index: -1;
     position: absolute;
-    background: linear-gradient(to right, #a3a3a3, #262f40);
+    background: linear-gradient(to right, #587fff, cyan);
     top: 0;
     bottom: 0;
     left: 0;
@@ -78,6 +78,15 @@ body {
 .event__links a:hover {  
     box-shadow: 1px 1px 4px 4px #bbffee;  
 } 
+
+.news__links {
+    width: 20rem;
+    margin: 0 auto;
+    background-color: rgb(39, 47, 64);
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 1rem;
+}
 
 .poster {
     box-shadow: 2px 2px 10px 2px #737373;

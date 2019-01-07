@@ -1,25 +1,109 @@
 [{
-        "id": 1,
-        "name": "Clash Of Codes 1",
-        "about": "Unleash the programmer in you 1",
+        "id": "tece13",
+        "name": "Electron",
+        "about": "ECE",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "AYS Harsh",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "",
+            "phone": ""
         }]
     },
     {
-        "id": 2,
-        "name": "Clash Of Codes 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "tece14",
+        "name": "GCC Adroit",
+        "about": "ECE",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Anurag",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "tece15",
+        "name": "Hieroglyphics",
+        "about": "ECE",
+        "contact": [{
+            "name": "Vinitha",
             "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "tece16",
+        "name": "Mock Placement",
+        "about": "ECE",
+        "contact": [{
+            "name": "Bhavana",
+            "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "tece17",
+        "name": "Wave Matrix",
+        "about": "ECE",
+        "contact": [{
+            "name": "Robin",
+            "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "tece18",
+        "name": "Think Electronix",
+        "about": "ECE",
+        "contact": [{
+            "name": "Madhuri",
+            "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "tece19",
+        "name": "Aerina 328p",
+        "about": "ECE",
+        "contact": [{
+            "name": "Harsitha",
+            "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "tece20",
+        "name": "Microcontroller Mania",
+        "about": "ECE",
+        "contact": [{
+            "name": "Sai Praneeth",
+            "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "tece21",
+        "name": "TIME vs PHY",
+        "about": "ECE",
+        "contact": [{
+            "name": "Sahithi",
+            "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
         }]
     }
 ]

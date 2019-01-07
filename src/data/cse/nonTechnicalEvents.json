@@ -1,36 +1,48 @@
 [{
-        "id": 3,
-        "name": "Non Technical Event 1",
-        "about": "Non technical event 1",
+        "id": "ntcse1",
+        "name": "Hide and Seek",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "P. Keerthika",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "K. kavya",
             "phone": "+919109191001"
         }]
     },
     {
-        "id": 4,
-        "name": "Non Technical Event 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "ntcse2",
+        "name": "Brain Strom",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "C. Tashvi",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "M.V. Samyuktha",
             "phone": "+919109191001"
         }]
     },
     {
-        "id": 5,
-        "name": "Non Technical Event 3",
-        "about": "Unleash the programmer in you 3",
+        "id": "ntcse3",
+        "name": "Anaganaga",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "C. Raghu Vardhan",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "B. Ravi Teja",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "ntcse4",
+        "name": "The Ultimate Avengers Quiz",
+        "about": "Non Technical Event",
+        "contact": [{
+            "name": "Hema Carolin",
+            "phone": "+919109191001"
+        }, {
+            "name": "Harshitha Rao",
             "phone": "+919109191001"
         }]
     }

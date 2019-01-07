@@ -22,9 +22,12 @@ class Home extends Component {
                                 <Link to="/events/departments/civ">CIV</Link>
                             </div>
                         </div>
-                        <div className="col-md-5">
-                            <h2 style={{textAlign: 'center'}}>Poster</h2>
-                            <img className="img-fluid poster" alt="poster" src={require("../../img/poster.jpg") }/>
+                        <div className="col-md-6">
+                        <h2 style={{textAlign:'center'}}>News</h2>
+                            <div className="news__links">
+                                <h6 style={{textAlign:'center'}}>Workshops</h6>
+                                <h6 style={{textAlign:'center'}}>Flash Mob</h6>
+                            </div>
                         </div>
                     </div>
                 </div>

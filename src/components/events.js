@@ -25,7 +25,7 @@ const Event = (props) => {
                         </div>
                     </div>
                 </div>
-                <p className="event__link">Link: <a href="#some Link">Click here</a></p>
+                {/* Registration fee */}
             </div>
             <div className="register">
                 <h6 className="legend">Contact</h6>

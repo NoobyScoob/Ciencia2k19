@@ -1,37 +1,61 @@
 [{
-        "id": 3,
-        "name": "Non Technical Event 1",
-        "about": "Non technical event 1",
+        "id": "ntece1",
+        "name": "Come Lazy Go Crazy",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Likitha Reddy",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "",
+            "phone": ""
         }]
     },
     {
-        "id": 4,
-        "name": "Non Technical Event 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "ntece2",
+        "name": "Digi Quest",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Sai Kiran",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "",
+            "phone": ""
         }]
     },
     {
-        "id": 5,
-        "name": "Non Technical Event 3",
-        "about": "Unleash the programmer in you 3",
+        "id": "ntece3",
+        "name": "IMP 4.0 4D Experience",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "G. Satya",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "ntece4",
+        "name": "Granny's House",
+        "about": "Non technical event",
+        "contact": [{
+            "name": "Sravani",
             "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "ntece5",
+        "name": "Honey Comb Maze",
+        "about": "Non technical event",
+        "contact": [{
+            "name": "Akruthi",
+            "phone": "+919109191001"
+        }, {
+            "name": "",
+            "phone": ""
         }]
     }
 ]

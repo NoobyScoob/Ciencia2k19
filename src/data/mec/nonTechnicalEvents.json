@@ -1,37 +1,49 @@
 [{
-        "id": 3,
-        "name": "Non Technical Event 1",
-        "about": "Non technical event 1",
+        "id": "ntmec1",
+        "name": "TED Talks",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "P.V.S Sreekar Sastry",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "",
+            "phone": ""
         }]
     },
     {
-        "id": 4,
-        "name": "Non Technical Event 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "ntmec2",
+        "name": "Open Stage",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "R. Charles Avinash",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "",
+            "phone": ""
         }]
     },
     {
-        "id": 5,
-        "name": "Non Technical Event 3",
-        "about": "Unleash the programmer in you 3",
+        "id": "ntmec3",
+        "name": "Art Gallery",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "M.K. Ravi Teja",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "ntmec4",
+        "name": "Ring-o-Fobia",
+        "about": "Non technical event",
+        "contact": [{
+            "name": "Chetan Jain",
             "phone": "+919109191001"
+        }, {
+            "name": "Bindu Priya",
+            "phone": ""
         }]
     }
 ]

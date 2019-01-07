@@ -1,37 +1,49 @@
 [{
-        "id": 3,
-        "name": "Non Technical Event 1",
-        "about": "Non technical event 1",
+        "id": "ntit1",
+        "name": "Beg Borrow Steal",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "S. Vaishnavi",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "N. Sai Kiranmayee",
+            "phone": ""
         }]
     },
     {
-        "id": 4,
-        "name": "Non Technical Event 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "ntit2",
+        "name": "Photo Scavenger Hunt",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Muskaan Makharia",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "Krishna Mohan",
+            "phone": ""
         }]
     },
     {
-        "id": 5,
-        "name": "Non Technical Event 3",
-        "about": "Unleash the programmer in you 3",
+        "id": "ntit3",
+        "name": "Photo Booth",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "J. Satya Gayatri",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "R. Shikara",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "ntit4",
+        "name": "CVR Fashion Freaks - pond of fashion dreams",
+        "about": "Non technical event",
+        "contact": [{
+            "name": "Tejasree",
             "phone": "+919109191001"
+        }, {
+            "name": "Shreya",
+            "phone": ""
         }]
     }
 ]

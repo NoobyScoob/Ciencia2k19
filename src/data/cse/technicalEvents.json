@@ -1,24 +1,96 @@
 [{
-        "id": 1,
-        "name": "Clash Of Codes 1",
-        "about": "Unleash the programmer in you 1",
+        "id": "tcse1",
+        "name": "Blind Coding",
+        "about": "Unleash the programmer in you",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "G. Jaydeep",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "D. kavya",
             "phone": "+919109191001"
         }]
     },
     {
-        "id": 2,
-        "name": "Clash Of Codes 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "tcse2",
+        "name": "Code-A-Thon",
+        "about": "Unleash the programmer in you",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "A. Susmitha",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "M. Swapna",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "tcse3",
+        "name": "CodeArena",
+        "about": "Unleash the programmer in you",
+        "contact": [{
+            "name": "P. Praveen",
+            "phone": "+919109191001"
+        }, {
+            "name": "A. Pradeep",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "tcse4",
+        "name": "Find Me",
+        "about": "Unleash the programmer in you",
+        "contact": [{
+            "name": "K. Sai Meghana",
+            "phone": "+919109191001"
+        }, {
+            "name": "G. Sai Sudha",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "tcse5",
+        "name": "CoderFiesta",
+        "about": "Unleash the programmer in you",
+        "contact": [{
+            "name": "Ch. Gnanadeep",
+            "phone": "+919109191001"
+        }, {
+            "name": "C.V.R Chetan Raj",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "tcse6",
+        "name": "CodeWarrior",
+        "about": "Unleash the programmer in you",
+        "contact": [{
+            "name": "P. Sisira Reddy",
+            "phone": "+919109191001"
+        }, {
+            "name": "J.N.V Sandra",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "tcse7",
+        "name": "Tech Wizard",
+        "about": "Unleash the programmer in you",
+        "contact": [{
+            "name": "Udayasri Pinnoju",
+            "phone": "+919109191001"
+        }, {
+            "name": "Vidya Pamidi",
+            "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "tcse8",
+        "name": "Snake And Ladder",
+        "about": "Unleash the programmer in you",
+        "contact": [{
+            "name": "D. Akhilesh",
+            "phone": "+919109191001"
+        }, {
+            "name": "R. Anirudh",
             "phone": "+919109191001"
         }]
     }

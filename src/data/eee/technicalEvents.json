@@ -1,24 +1,48 @@
 [{
-        "id": 1,
-        "name": "Clash Of Codes 1",
-        "about": "Unleash the programmer in you 1",
+        "id": "teee22",
+        "name": "Quiz the Wiz",
+        "about": "EEE",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Koutubh Basu",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "S. Lokesh, Nitesh Guleria, P. Manasa, T. Bhavani",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "teee23",
+        "name": "Technical Twait",
+        "about": "EEE",
+        "contact": [{
+            "name": "B. Nagamani",
+            "phone": "+919109191001"
+        }, {
+            "name": "T. Divya, V. Radhika, Y. Naveen",
+            "phone": ""
+        }]
+    },
+    {
+        "id": "teee24",
+        "name": "Ice Box & Buzz Wire Game",
+        "about": "EEE",
+        "contact": [{
+            "name": "K. Sai Raju",
+            "phone": "+919109191001"
+        }, {
+            "name": " V. Adithya Reddy, B. Manideep, A. Praneeth Reddy",
             "phone": "+919109191001"
         }]
     },
     {
-        "id": 2,
-        "name": "Clash Of Codes 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "teee25",
+        "name": "Techno Team",
+        "about": "EEE",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Sukeerth",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "Vamshi, Susheel, Sreeker",
             "phone": "+919109191001"
         }]
     }

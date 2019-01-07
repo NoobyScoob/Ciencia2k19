@@ -6,10 +6,7 @@ import event2 from '../img/event2.jpg';
 const Gallery = (props) => {
     return (
         <div className="gallery">
-
-            <div className="shape">
-            </div>
-            
+                    
             <div className="container photos">
                 <div id="photos" className="carousel slide" data-ride="carousel">
                     <ul className="carousel-indicators">

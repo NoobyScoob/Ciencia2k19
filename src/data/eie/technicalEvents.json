@@ -1,25 +1,13 @@
 [{
-        "id": 1,
-        "name": "Clash Of Codes 1",
-        "about": "Unleash the programmer in you 1",
+        "id": "teie26",
+        "name": "Tech Roadies",
+        "about": "EIE",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Praneetha",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
-        }]
-    },
-    {
-        "id": 2,
-        "name": "Clash Of Codes 2",
-        "about": "Unleash the programmer in you 2",
-        "contact": [{
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
-        }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "",
+            "phone": ""
         }]
     }
 ]

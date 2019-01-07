@@ -43,7 +43,7 @@ const ContactInfo = () => {
                     </div>
                     <div className="col-md-3">
                         <img className="img-fluid" src={require('../img/human.png')} height="100" width="100" alt="human"/>
-                        <h4>Diyya Dasari</h4>
+                        <h4>Diiya Dasari</h4>
                         <h5>7032676978</h5>
                     </div>
                     <div className="col-md-3">

@@ -1,36 +1,36 @@
 [{
-        "id": 3,
-        "name": "Non Technical Event 1",
-        "about": "Non technical event 1",
+        "id": "ntciv1",
+        "name": "Murder Mystery in a devil house",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "P. Sathish",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "T.V.R. Phalguna",
             "phone": "+919109191001"
         }]
     },
     {
-        "id": 4,
-        "name": "Non Technical Event 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "ntciv2",
+        "name": "Balance Yourself",
+        "about": "Unleash the programmer in you",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Narasimha",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "D. Uday Kumar, G. Prudhvi",
             "phone": "+919109191001"
         }]
     },
     {
-        "id": 5,
-        "name": "Non Technical Event 3",
+        "id": "ntciv3",
+        "name": "Haunted House",
         "about": "Unleash the programmer in you 3",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "Linen Reddy",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
+            "name": "Nikhilesh Reddy",
             "phone": "+919109191001"
         }]
     }

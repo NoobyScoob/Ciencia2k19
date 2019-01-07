@@ -1,37 +1,25 @@
 [{
-        "id": 3,
-        "name": "Non Technical Event 1",
-        "about": "Non technical event 1",
+        "id": "nteee1",
+        "name": "4DfX",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "V. Sree Pranav",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "G. Srikanth",
+            "phone": ""
         }]
     },
     {
-        "id": 4,
-        "name": "Non Technical Event 2",
-        "about": "Unleash the programmer in you 2",
+        "id": "nteee2",
+        "name": "Time Bomb",
+        "about": "Non technical event",
         "contact": [{
-            "name": "Mr. Someone",
+            "name": "K. Uday Kumar",
             "phone": "+919109191001"
         }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
-        }]
-    },
-    {
-        "id": 5,
-        "name": "Non Technical Event 3",
-        "about": "Unleash the programmer in you 3",
-        "contact": [{
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
-        }, {
-            "name": "Mr. Someone",
-            "phone": "+919109191001"
+            "name": "D. Rohan",
+            "phone": ""
         }]
     }
 ]
