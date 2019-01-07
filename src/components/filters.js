@@ -28,8 +28,6 @@ class Filters extends Component {
             return <Events data={ require(`../data/${ this.props.department }/technicalEvents.json`) } />
           case 'nonTechnical':
             return <Events data={ require(`../data/${ this.props.department }/nonTechnicalEvents.json`) } />
-          case 'workshops':
-            return <Events data={ require(`../data/${ this.props.department }/workshops.json`) } />
           default :
             return <Events data={ require(`../data/${ this.props.department }/technicalEvents.json`) } />
         }
@@ -43,7 +41,6 @@ class Filters extends Component {
                 <div className="event__type">
                     <button className="btn btn-dark" id="technical" onClick={ () => this.handleActiveEvents('technical') }>Technical</button>
                     <button className="btn btn-dark" id="non_technical" onClick={ () => this.handleActiveEvents('nonTechnical') }>Non Technical</button>
-                    <button className="btn btn-dark" id="workshops" onClick={ () => this.handleActiveEvents('workshops') }>Workshops</button>
                 </div>
                 { this.handleShowEvents() }
             </div>
