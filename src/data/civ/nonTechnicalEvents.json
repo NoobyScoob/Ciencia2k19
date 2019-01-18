@@ -1,37 +1,40 @@
 [{
         "id": "ntciv1",
-        "name": "Murder Mystery in a devil house",
-        "about": "Non technical event",
+        "name": "Murder Mystery in a masnison house",
+        "about": "Solve the mystery from the clues given. Either a sucide or murder",
+        "room": 1,
         "contact": [{
             "name": "P. Sathish",
-            "phone": "+919109191001"
+            "phone": "+919963205595"
         }, {
             "name": "T.V.R. Phalguna",
-            "phone": "+919109191001"
+            "phone": "+919963205595"
         }]
     },
     {
         "id": "ntciv2",
         "name": "Balance Yourself",
-        "about": "Unleash the programmer in you",
+        "about": "We will construct a suspension bridge over a ground, participants are allowed to walk over the bridge by balancing themselves, the one who reaches the destination in less time will be the winner",
+        "room": 1,
         "contact": [{
             "name": "Narasimha",
-            "phone": "+919109191001"
+            "phone": "+917893132241"
         }, {
             "name": "D. Uday Kumar, G. Prudhvi",
-            "phone": "+919109191001"
+            "phone": "+9190110024608"
         }]
     },
     {
         "id": "ntciv3",
         "name": "Haunted House",
-        "about": "Unleash the programmer in you 3",
+        "about": "The room will be kept dark and divided into different sets. Each set consists of different theme to scare the participants. The max time for each show is 4 mins. Different sets include different themes like graveyard setup, muddy path, etc",
+        "room": 1,
         "contact": [{
             "name": "Linen Reddy",
-            "phone": "+919109191001"
+            "phone": "+919494925083"
         }, {
             "name": "Nikhilesh Reddy",
-            "phone": "+919109191001"
+            "phone": "+917032536876"
         }]
     }
 ]

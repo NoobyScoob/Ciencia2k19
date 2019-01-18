@@ -9,7 +9,7 @@ class Home extends Component {
             <div>
                 <div className="container catalog">
                     <div className="row">
-                        <div className="col-md-6">
+                        <div className="col-md-7">
                             <h2 style={{textAlign:'center'}}>Events</h2>
                             <div className="event__links">
                                 <h6 style={{textAlign:'center'}}>Departments</h6>
@@ -22,11 +22,22 @@ class Home extends Component {
                                 <Link to="/events/departments/civ">CIV</Link>
                             </div>
                         </div>
-                        <div className="col-md-6">
-                        <h2 style={{textAlign:'center'}}>News</h2>
-                            <div className="news__links">
-                                <h6 style={{textAlign:'center'}}>Workshops</h6>
-                                <h6 style={{textAlign:'center'}}>Flash Mob</h6>
+                        <div className="col-md-5">
+                            <h2 style={{textAlign: 'center'}}>Important Links</h2>
+                            <div className="imp__links">
+                                <div className="imp">
+                                    <h5>Project Demo Competition</h5>
+                                    <p>Maximum Team Participation - 3 members</p>
+                                    <a style={{margin: '0.4rem 0'}} href="https://docs.google.com/forms/d/e/1FAIpQLSfLIN5Di3Ub2i_vkV1HAg3On7Ktpt9UTxhGIME_07Ic64Vq5A/viewform" className="btn btn-dark">Participate</a>
+                                </div>
+                                <div className="imp">
+                                    <h5>Marathon 5K Run</h5>
+                                    <p>Venue: Jalvihar on 20th January 2019</p>
+                                </div>
+                                <div className="imp">
+                                    <h5>Flash Mob</h5>
+                                    <p>Inorbit Mall</p>
+                                </div>
                             </div>
                         </div>
                     </div>

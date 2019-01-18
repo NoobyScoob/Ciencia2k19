@@ -1,49 +1,53 @@
 [{
         "id": "tciv1",
         "name": "Idea Presentation",
-        "about": "Something",
+        "about": "This event gives an oppurtunity to young minds filled with thoughts and ideas wished to implement. Any idea startup, social events e.t.c is welcome.",
+        "room": 1,
         "contact": [{
             "name": "D.Koushik Reddy",
-            "phone": "+919109191001"
+            "phone": "+919293926926"
         }, {
             "name": "P.Anirudh",
-            "phone": "+919109191001"
+            "phone": "+917036199057"
         }]
     },
     {
         "id": "tciv2",
         "name": "Better Bequick",
-        "about": "Something",
+        "about": "This is a time based quiz technical event. This event consists of three rounds. If anybody feels they have good IQ they can come and prove",
+        "room": 1,
         "contact": [{
             "name": "G.Pranaykumar",
-            "phone": "+919109191001"
+            "phone": "+918500267986"
         }, {
             "name": "N.Naveen Reddy",
-            "phone": "+919109191001"
+            "phone": "+917674904439"
         }]
     },
     {
         "id": "tciv3",
         "name": "Bridge Fabrico",
-        "about": "Something",
+        "about": "BRIDGE FABRICO.... So come up with some innovative ideas of bridge design and let's see whether your bridge is good enough to take maximum load",
+        "room": 1,
         "contact": [{
             "name": "B.Rohith Kumar",
-            "phone": "+919109191001"
+            "phone": "+918187055833"
         }, {
             "name": "H.Sachin",
-            "phone": "+919109191001"
+            "phone": "+917997558064"
         }]
     },
     {
         "id": "tciv4",
         "name": "Poster Presentation",
-        "about": "Something",
+        "about": "This event gives oppurtunity to present posters about technical events or topics. Poster should be about the topic without any written descriptions",
+        "room": 1,
         "contact": [{
             "name": "A.Jagan",
-            "phone": "+919109191001"
+            "phone": "+917995916719"
         }, {
             "name": "V.Pradhyumna",
-            "phone": "+919109191001"
+            "phone": "+917036455463"
         }]
     }
 ]

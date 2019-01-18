@@ -1,109 +1,118 @@
 [{
         "id": "tece13",
         "name": "Electron",
-        "about": "ECE",
+        "about": "Test your skills in networks",
+        "room": 1,
         "contact": [{
             "name": "AYS Harsh",
-            "phone": "+919109191001"
+            "phone": "+918106200936"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "K. Yashwanth",
+            "phone": "+918686819319"
         }]
     },
     {
         "id": "tece14",
         "name": "GCC Adroit",
-        "about": "ECE",
+        "about": "Test your skills on C and Java",
+        "room": 1,
         "contact": [{
-            "name": "Anurag",
-            "phone": "+919109191001"
+            "name": "Sushanth N",
+            "phone": "+919392362654"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "G Sai Karthik",
+            "phone": "+919908869942"
         }]
     },
     {
         "id": "tece15",
         "name": "Hieroglyphics",
-        "about": "ECE",
+        "about": "You cannot escape the responsibility of hunting QR Codes",
+        "room": 1,
         "contact": [{
             "name": "Vinitha",
-            "phone": "+919109191001"
+            "phone": "+918499840626"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "Sushmitha",
+            "phone": "+919908331951"
         }]
     },
     {
         "id": "tece16",
         "name": "Mock Placement",
-        "about": "ECE",
+        "about": "Ready to get placed",
+        "room": 1,
         "contact": [{
             "name": "Bhavana",
-            "phone": "+919109191001"
+            "phone": "+919491204980"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "D Devi Madhuri",
+            "phone": "+919491204980"
         }]
     },
     {
         "id": "tece17",
         "name": "Wave Matrix",
-        "about": "ECE",
+        "about": "Excellence in continuous process like a wave",
+        "room": 1,
         "contact": [{
             "name": "Robin",
-            "phone": "+919109191001"
+            "phone": "+919550425215"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "Jayanth Madhav",
+            "phone": "+919701686592"
         }]
     },
     {
         "id": "tece18",
         "name": "Think Electronix",
-        "about": "ECE",
+        "room": 1,
+        "about": "Logic will get you from clippers to clampers and thinking will take you everywhere",
         "contact": [{
-            "name": "Madhuri",
-            "phone": "+919109191001"
+            "name": "M Dhathri",
+            "phone": "+918977886035"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "Y. Bhavani",
+            "phone": "+918977886035"
         }]
     },
     {
         "id": "tece19",
         "name": "Aerina 328p",
-        "about": "ECE",
+        "about": "Code in IDE",
+        "room": 1,
         "contact": [{
-            "name": "Harsitha",
-            "phone": "+919109191001"
+            "name": "Harsitha T",
+            "phone": "+919618136095"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "S. Divya",
+            "phone": "+919618136095"
         }]
     },
     {
         "id": "tece20",
         "name": "Microcontroller Mania",
-        "about": "ECE",
+        "about": "Test your knowledge on microcontrollers",
+        "room": 1,
         "contact": [{
-            "name": "Sai Praneeth",
-            "phone": "+919109191001"
+            "name": "Anurag",
+            "phone": "+917032186541"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "K Sai Praneeth, Monal V",
+            "phone": "+919100429842"
         }]
     },
     {
         "id": "tece21",
         "name": "TIME vs PHY",
-        "about": "ECE",
+        "about": "Come and show your IQ level",
+        "room": 1,
         "contact": [{
-            "name": "Sahithi",
-            "phone": "+919109191001"
+            "name": "P Sri Harsha",
+            "phone": "+919966554410"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "A Sumanth",
+            "phone": "+918897496540"
         }]
     }
 ]

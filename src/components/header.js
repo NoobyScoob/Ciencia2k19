@@ -28,7 +28,6 @@ const Header = (props) => {
                                             </div>
                                             <div className="modal-body">
                                                 { props.about }
-                                                <i>This text can be changed accordingly</i>
                                             </div>
                                         </div>
                                     </div>

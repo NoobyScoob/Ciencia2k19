@@ -1,97 +1,105 @@
 [{
         "id": "tmec30",
         "name": "MEK-D",
-        "about": "MEC",
+        "about": "A game in which the participants will have to use their technical knowledge on mechanical drawing",
+        "room": 1,
         "contact": [{
             "name": "M. Sai kumar",
-            "phone": "+919109191001"
+            "phone": "+918096884096"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "S. Sai Kumar",
+            "phone": "+918639438491"
         }]
     },
     {
         "id": "tmec31",
         "name": "Brain Buzz",
-        "about": "MEC",
+        "about": "A game in which the participants have to use their knowledge to solve the puzzles and mechanical related terms",
+        "room": 1,
         "contact": [{
             "name": "D. Sai Varun Reddy",
-            "phone": "+919109191001"
+            "phone": "+918886040810"
         }, {
             "name": "V.S.S. Rakesh",
-            "phone": "+919109191001"
+            "phone": "+91944130072"
         }]
     },
     {
         "id": "tmec32",
-        "name": "Stick Mechanism",
-        "about": "MEC",
+        "name": "CADD-X",
+        "about": "A technical event in which participants are to draw mirrored images of drawings of mechanical components given to them on paper. After qualifying they have to draw using AUTOCAD",
+        "room": 1,
         "contact": [{
-            "name": "G. Keerthi",
-            "phone": "+919109191001"
+            "name": "Dhruva M",
+            "phone": "+918099211211"
         }, {
-            "name": "P. Shankar",
-            "phone": "+919109191001"
+            "name": "T.Akhil",
+            "phone": "+919505076197"
         }]
     },
     {
         "id": "tmec33",
-        "name": "Entraptions",
-        "about": "MEC",
+        "name": "Contraptions",
+        "about": "It up ais an event in which we will be given some objects with which they have to build up a chain like motion and have to reach the target",
+        "room": 1,
         "contact": [{
             "name": "Sandeep",
-            "phone": "+919109191001"
+            "phone": "+919848270874"
         }, {
             "name": "Koushik",
-            "phone": "+919109191001"
+            "phone": "+919441280824"
         }]
     },
     {
         "id": "tmec34",
         "name": "Mech Hunt",
-        "about": "MEC",
+        "about": "A game in which the participants will have to use their technical knowledge, decipher the hunts given to them and win the game",
+        "room": 1,
         "contact": [{
             "name": "K. Likith",
-            "phone": "+919109191001"
+            "phone": "+919515901431"
         }, {
             "name": "Pranathi",
-            "phone": "+919109191001"
+            "phone": "+919505170189"
         }]
     },
     {
         "id": "tmec35",
         "name": "MEK-Link",
-        "about": "MEC",
+        "about": "One mechanism is shown to participants, then the participants have to make the mechanism with ice cream sticks",
+        "room": 1,
         "contact": [{
             "name": "G. Keerthi",
-            "phone": "+919109191001"
+            "phone": "+919640135238"
         }, {
             "name": "P. Shankar",
-            "phone": "+919109191001"
+            "phone": "+918247305493"
         }]
     },
     {
         "id": "tmec36",
-        "name": "Brain Fade",
-        "about": "MEC",
+        "name": "Blind Fade",
+        "about": "Participants should write in sequence of pictures as shown, further... they are blind folded and asked to pick the particualar equipment. Now, the participants who qualified the above round will be asked to assemble and dessemble the engine",
+        "room": 1,
         "contact": [{
-            "name": "Venu Madhav",
-            "phone": "+919109191001"
+            "name": "V. Chushmini",
+            "phone": "+917989790010"
         }, {
-            "name": "Sreenith",
-            "phone": "+919109191001"
+            "name": "G. Smruthi, D. Ushasri",
+            "phone": "+917989790010"
         }]
     },
     {
         "id": "tmec37",
-        "name": "Project Expo",
-        "about": "MEC",
+        "name": "Walk in Technology",
+        "about": "Demonstratin working models in project lab and participants are allowed to explain projects on stage",
+        "room": 1,
         "contact": [{
             "name": "Raja Ratan M",
-            "phone": "+919109191001"
+            "phone": "+917993295245"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "K. Tejasvi, B. Pranathi Reddy",
+            "phone": "+918328455619"
         }]
     }
 ]

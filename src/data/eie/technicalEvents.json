@@ -1,13 +1,14 @@
 [{
         "id": "teie26",
         "name": "Tech Roadies",
-        "about": "EIE",
+        "about": "Two rounds<br>Round 1: Rapid fire based on the slide shown<br> Round 2: For programmers - error correction, for circuit decoders - decode the complex circuit",
+        "room": 1,
         "contact": [{
             "name": "Praneetha",
-            "phone": "+919109191001"
+            "phone": "+919652259268"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "K.V. Naveen",
+            "phone": "+919010073322"
         }]
     }
 ]

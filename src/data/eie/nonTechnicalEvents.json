@@ -1,25 +1,27 @@
 [{
         "id": "nteie1",
         "name": "Fun zone",
-        "about": "Non technical event",
+        "about": "The contestant should pick a chit from the bowl and he/she has to do the task as mentioned in the chit",
+        "room": 1,
         "contact": [{
             "name": "Harsha",
-            "phone": "+919109191001"
+            "phone": "+918919697201"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "Akhilendra Sai",
+            "phone": "+919640808569"
         }]
     },
     {
         "id": "nteie2",
         "name": "Escape the Room",
-        "about": "Non technical event",
+        "about": "The contestant is confined inside a room locked from within and he/she should explore the room for secret code and puzzle such that they can come out of the room",
+        "room": 1,
         "contact": [{
             "name": "Kunal",
-            "phone": "+919109191001"
+            "phone": "+919985798874"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "M Suraj",
+            "phone": "+918790295502"
         }]
     }
 ]

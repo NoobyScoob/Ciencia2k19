@@ -1,37 +1,40 @@
 [{
         "id": "tit27",
         "name": "Game of Brains",
-        "about": "IT",
+        "about": "It is technical quiz based on the modern technology computers and smart phones",
+        "room": 1,
         "contact": [{
             "name": "N. Shiva Yadav",
-            "phone": "+919109191001"
+            "phone": "+918500842002"
         }, {
-            "name": "K. Rohan",
-            "phone": "+919109191001"
+            "name": "D.V. Sai Ram Prasad",
+            "phone": "+919676717696"
         }]
     },
     {
         "id": "tit28",
-        "name": "Paper Presentation",
-        "about": "IT",
+        "name": "Call for papers",
+        "about": "This event aims to extract hidden talents and innovation of students by providing them a platform to display their talent through technical paper presentation",
+        "room": 1,
         "contact": [{
-            "name": "Rishab",
-            "phone": "+919109191001"
+            "name": "K. Laxmi",
+            "phone": "+919505359366"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "Meghana P",
+            "phone": "+919390776496"
         }]
     },
     {
         "id": "tit29",
         "name": "Project Expo",
-        "about": "IT",
+        "about": "It is an open event where student from various branches can participate and showcase their projects",
+        "room": 1,
         "contact": [{
-            "name": "M.V. Rajeshwar",
-            "phone": "+919109191001"
+            "name": "P Pragathi",
+            "phone": "+918328429914"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "N. Andu",
+            "phone": "+918919588040"
         }]
     }
 ]

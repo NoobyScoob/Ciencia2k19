@@ -1,49 +1,53 @@
 [{
         "id": "ntit1",
         "name": "Beg Borrow Steal",
-        "about": "Non technical event",
+        "about": "Round 1: How well you know each other. Round 2: Blind fold, it's all about trust. Round 3: Beg borrow steal",
+        "room": 1,
         "contact": [{
             "name": "S. Vaishnavi",
-            "phone": "+919109191001"
+            "phone": "+919618723986"
         }, {
             "name": "N. Sai Kiranmayee",
-            "phone": ""
+            "phone": "+919618723986"
         }]
     },
     {
         "id": "ntit2",
         "name": "Photo Scavenger Hunt",
-        "about": "Non technical event",
+        "about": "The photo scavenger hunt is a fun activity game where team of two compete against each other to complete all of the photo based tasks in the least amount of time",
+        "room": 1,
         "contact": [{
             "name": "Muskaan Makharia",
-            "phone": "+919109191001"
+            "phone": "+919908479000"
         }, {
             "name": "Krishna Mohan",
-            "phone": ""
+            "phone": "+919908479000"
         }]
     },
     {
         "id": "ntit3",
         "name": "Photo Booth",
-        "about": "Non technical event",
+        "about": "Enter and experience amazing photoshoot with many funky props & crazy backgrounds",
+        "room": 1,
         "contact": [{
             "name": "J. Satya Gayatri",
-            "phone": "+919109191001"
+            "phone": "+919010024608"
         }, {
             "name": "R. Shikara",
-            "phone": ""
+            "phone": "+919010024608"
         }]
     },
     {
         "id": "ntit4",
         "name": "CVR Fashion Freaks - pond of fashion dreams",
-        "about": "Non technical event",
+        "about": "This event is all about exploring your fashion skills",
+        "room": 1,
         "contact": [{
             "name": "Tejasree",
-            "phone": "+919109191001"
+            "phone": "+919703311895"
         }, {
             "name": "Shreya",
-            "phone": ""
+            "phone": "+919390309039"
         }]
     }
 ]

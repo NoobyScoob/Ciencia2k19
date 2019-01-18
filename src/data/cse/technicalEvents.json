@@ -1,19 +1,21 @@
 [{
         "id": "tcse1",
         "name": "Blind Coding",
-        "about": "Unleash the programmer in you",
+        "about": "Participants are given a simple program and are supposed to type it on a computer without moniter",
+        "room": 1,
         "contact": [{
             "name": "G. Jaydeep",
-            "phone": "+919109191001"
+            "phone": "+919052838857"
         }, {
             "name": "D. kavya",
-            "phone": "+919109191001"
+            "phone": "+918186935929"
         }]
     },
     {
         "id": "tcse2",
         "name": "Code-A-Thon",
-        "about": "Unleash the programmer in you",
+        "about": "",
+        "room": 1,
         "contact": [{
             "name": "A. Susmitha",
             "phone": "+919109191001"
@@ -25,31 +27,34 @@
     {
         "id": "tcse3",
         "name": "CodeArena",
-        "about": "Unleash the programmer in you",
+        "about": "This event is one vs one coding competition where problem statement will be given to both of them one who solves first will get karma points and will be given accordingly",
+        "room": 1,
         "contact": [{
             "name": "P. Praveen",
-            "phone": "+919109191001"
+            "phone": "+919652811863"
         }, {
             "name": "A. Pradeep",
-            "phone": "+919109191001"
+            "phone": "+917993295977"
         }]
     },
     {
         "id": "tcse4",
         "name": "Find Me",
-        "about": "Unleash the programmer in you",
+        "about": "This game is to test your technical knowledge in C, Java. Find the output of the code within given time.",
+        "room": 1,
         "contact": [{
             "name": "K. Sai Meghana",
-            "phone": "+919109191001"
+            "phone": "+918885801816"
         }, {
             "name": "G. Sai Sudha",
-            "phone": "+919109191001"
+            "phone": "+918978677109"
         }]
     },
     {
         "id": "tcse5",
         "name": "CoderFiesta",
-        "about": "Unleash the programmer in you",
+        "about": "This event being three rounds makes it funnier and exciting every round, just try to make it evident that coding is fun. TAG: Coding made fun as far as possible",
+        "room": 1,
         "contact": [{
             "name": "Ch. Gnanadeep",
             "phone": "+919109191001"
@@ -61,31 +66,34 @@
     {
         "id": "tcse6",
         "name": "CodeWarrior",
-        "about": "Unleash the programmer in you",
+        "about": "Come to know the brains behind the creation what you called programming",
+        "room": 1,
         "contact": [{
             "name": "P. Sisira Reddy",
-            "phone": "+919109191001"
+            "phone": "+917306756777"
         }, {
             "name": "J.N.V Sandra",
-            "phone": "+919109191001"
+            "phone": "+918331945201"
         }]
     },
     {
         "id": "tcse7",
         "name": "Tech Wizard",
-        "about": "Unleash the programmer in you",
+        "about": "Participants have to guess the loops quickly and guessing the output for the code within seconds",
+        "room": 1,
         "contact": [{
             "name": "Udayasri Pinnoju",
-            "phone": "+919109191001"
+            "phone": "+919177580065"
         }, {
             "name": "Vidya Pamidi",
-            "phone": "+919109191001"
+            "phone": "+919676102779"
         }]
     },
     {
         "id": "tcse8",
         "name": "Snake And Ladder",
         "about": "Unleash the programmer in you",
+        "room": 1,
         "contact": [{
             "name": "D. Akhilesh",
             "phone": "+919109191001"

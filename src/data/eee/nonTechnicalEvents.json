@@ -1,25 +1,27 @@
 [{
         "id": "nteee1",
         "name": "4DfX",
-        "about": "Non technical event",
+        "about": "4DFX is an entertainment presentation system combining a 3D film with physical effects that occur in the theater in sychronization with film",
+        "room": 1,
         "contact": [{
             "name": "V. Sree Pranav",
-            "phone": "+919109191001"
+            "phone": "+917997190290"
         }, {
             "name": "G. Srikanth",
-            "phone": ""
+            "phone": "+917997190290"
         }]
     },
     {
         "id": "nteee2",
         "name": "Time Bomb",
-        "about": "Non technical event",
+        "about": "The player is subjected to defuse the bomb by cutting 4 wires out of 5 wires. First to unlock the bomb, they have to sole the maze. Maze will be displayed on led display. There will be four rounds to defuse the bomb",
+        "room": 1,
         "contact": [{
             "name": "K. Uday Kumar",
-            "phone": "+919109191001"
+            "phone": "+919494925083"
         }, {
             "name": "D. Rohan",
-            "phone": ""
+            "phone": "+919494925083"
         }]
     }
 ]

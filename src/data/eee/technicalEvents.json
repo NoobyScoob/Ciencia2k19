@@ -2,6 +2,7 @@
         "id": "teee22",
         "name": "Quiz the Wiz",
         "about": "EEE",
+        "room": 1,
         "contact": [{
             "name": "Koutubh Basu",
             "phone": "+919109191001"
@@ -14,6 +15,7 @@
         "id": "teee23",
         "name": "Technical Twait",
         "about": "EEE",
+        "room": 1,
         "contact": [{
             "name": "B. Nagamani",
             "phone": "+919109191001"
@@ -26,6 +28,7 @@
         "id": "teee24",
         "name": "Ice Box & Buzz Wire Game",
         "about": "EEE",
+        "room": 1,
         "contact": [{
             "name": "K. Sai Raju",
             "phone": "+919109191001"
@@ -38,12 +41,26 @@
         "id": "teee25",
         "name": "Techno Team",
         "about": "EEE",
+        "room": 1,
         "contact": [{
             "name": "Sukeerth",
             "phone": "+919109191001"
         }, {
             "name": "Vamshi, Susheel, Sreeker",
             "phone": "+919109191001"
+        }]
+    },
+    {
+        "id": "teee25",
+        "name": "StartupIQ",
+        "about": "In this event there are 20 teams and 20 different businesses and each team has limited money 1 crore and they should spend for different rounds in the events. There are 2 rounds in the event",
+        "room": 1,
+        "contact": [{
+            "name": "M. Pruthvi Raj",
+            "phone": "+917702138012"
+        }, {
+            "name": "T. Adithya Vardham Reddy",
+            "phone": "+919849714020"
         }]
     }
 ]

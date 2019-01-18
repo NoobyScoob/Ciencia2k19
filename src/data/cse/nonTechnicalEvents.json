@@ -1,49 +1,53 @@
 [{
         "id": "ntcse1",
         "name": "Hide and Seek",
-        "about": "Non technical event",
+        "room": 1,
+        "about": "Hide and seek is a fun filled and interesting game where a riddle or situtation is given to the participant and answer related items will be stored in the mud pit. The participant must guess the item with in given time.",
         "contact": [{
             "name": "P. Keerthika",
-            "phone": "+919109191001"
+            "phone": "+919030175322"
         }, {
             "name": "K. kavya",
-            "phone": "+919109191001"
+            "phone": "+919030175322"
         }]
     },
     {
         "id": "ntcse2",
         "name": "Brain Strom",
-        "about": "Non technical event",
+        "about": "Get ready to feel the deJa vu of your kindergarten, let's see how well you know your alphabets and make sure your toys are not clumsy",
+        "room": 1,
         "contact": [{
             "name": "C. Tashvi",
-            "phone": "+919109191001"
+            "phone": "+917675820099"
         }, {
             "name": "M.V. Samyuktha",
-            "phone": "+919109191001"
+            "phone": "+919676908043"
         }]
     },
     {
         "id": "ntcse3",
         "name": "Anaganaga",
-        "about": "Non technical event",
+        "about": "We as part of this event organise poetry recitation, story telling and stand up comedy",
+        "room": 1,
         "contact": [{
             "name": "C. Raghu Vardhan",
-            "phone": "+919109191001"
+            "phone": "+919963420626"
         }, {
             "name": "B. Ravi Teja",
-            "phone": "+919109191001"
+            "phone": "+919059344883"
         }]
     },
     {
         "id": "ntcse4",
         "name": "The Ultimate Avengers Quiz",
-        "about": "Non Technical Event",
+        "about": "There are many marvel fans in our college and 2018 was a big year for all the marvel fans. Everyone is enthusiastic about the final move. We are refreshing all the memories from 2008 till tody by conducting a fun contest on all MCU movies",
+        "room": 1,
         "contact": [{
             "name": "Hema Carolin",
-            "phone": "+919109191001"
+            "phone": "+917095359799"
         }, {
             "name": "Harshitha Rao",
-            "phone": "+919109191001"
+            "phone": "+917095359799"
         }]
     }
 ]

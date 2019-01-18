@@ -1,10 +1,38 @@
-[{
-        "id": "ntmec1",
-        "name": "TED Talks",
-        "about": "Non technical event",
+[
+    {
+        "id": "ntmec2",
+        "name": "Open Stage",
+        "about": "Open stage is held to bring out more hidden tanlent showcase it whole cvr",
+        "room": 1,
         "contact": [{
-            "name": "P.V.S Sreekar Sastry",
-            "phone": "+919109191001"
+            "name": "R. Charles Avinash",
+            "phone": "+918885986282"
+        }, {
+            "name": "Abhishikth, Harsha",
+            "phone": "+918885986282"
+        }]
+    },
+    {
+        "id": "ntmec3",
+        "name": "Glow cricket",
+        "about": "Cricket in Darkness and fairy lights",
+        "room": 1,
+        "contact": [{
+            "name": "Naveen Kumar",
+            "phone": "+918885986282"
+        }, {
+            "name": "Vamshi Krishna Goud",
+            "phone": "+919985891134"
+        }]
+    },
+    {
+        "id": "ntmec1",
+        "name": "Art Gallery",
+        "about": "Non technical event mechanical",
+        "room": 1,
+        "contact": [{
+            "name": "M.K. Ravi Teja",
+            "phone": "+918501809652"
         }, {
             "name": "",
             "phone": ""
@@ -12,38 +40,15 @@
     },
     {
         "id": "ntmec2",
-        "name": "Open Stage",
-        "about": "Non technical event",
+        "name": "Patt-Se-Headshot",
+        "about": "Come and experience the world of action. Show your survival skills in the world of PUBG",
+        "room": 1,
         "contact": [{
-            "name": "R. Charles Avinash",
-            "phone": "+919109191001"
+            "name": "B. Sai Akash",
+            "phone": "+918501809652"
         }, {
-            "name": "",
-            "phone": ""
-        }]
-    },
-    {
-        "id": "ntmec3",
-        "name": "Art Gallery",
-        "about": "Non technical event",
-        "contact": [{
-            "name": "M.K. Ravi Teja",
-            "phone": "+919109191001"
-        }, {
-            "name": "",
-            "phone": ""
-        }]
-    },
-    {
-        "id": "ntmec4",
-        "name": "Ring-o-Fobia",
-        "about": "Non technical event",
-        "contact": [{
-            "name": "Chetan Jain",
-            "phone": "+919109191001"
-        }, {
-            "name": "Bindu Priya",
-            "phone": ""
+            "name": "M Rahul, Rohit",
+            "phone": "+917032398412"
         }]
     }
 ]

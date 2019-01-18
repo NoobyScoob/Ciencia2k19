@@ -1,31 +1,34 @@
 [{
         "id": "ntece1",
         "name": "Come Lazy Go Crazy",
-        "about": "Non technical event",
+        "about": "3 Rounds. Round 1: One member will be given a word and should say it out loud, the other persons will keep headphones and guess the word. Round 2: A player holds the loop in one hand and attempts to guide it along the curved wire without touching the loop. Round 3: Person should blow the ballon and burst without using hands",
+        "room": 1,
         "contact": [{
             "name": "Likitha Reddy",
-            "phone": "+919109191001"
+            "phone": "+919553364364"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "V. Sujaritha",
+            "phone": "+916309774686"
         }]
     },
     {
         "id": "ntece2",
         "name": "Digi Quest",
-        "about": "Non technical event",
+        "about": "Check your Luck in round 1 show your skill in round 2 Cross these levels to play the most exiting and adventurous treasure hunt using QR codes. Scan QR codes to find the hidden treasure",
+        "room": 1,
         "contact": [{
             "name": "Sai Kiran",
-            "phone": "+919109191001"
+            "phone": "+919963205595"
         }, {
-            "name": "",
-            "phone": ""
+            "name": "Ram Sai Varma, Sai Vamshi Krishna",
+            "phone": "+919247449292"
         }]
     },
     {
         "id": "ntece3",
         "name": "IMP 4.0 4D Experience",
         "about": "Non technical event",
+        "room": 1,
         "contact": [{
             "name": "G. Satya",
             "phone": "+919109191001"
@@ -37,25 +40,14 @@
     {
         "id": "ntece4",
         "name": "Granny's House",
-        "about": "Non technical event",
+        "about": "This is about a person who has a grandmother would not let her out of the house. You have to let her grand daughter escape the house without getting caught. You will lose if she catches you",
+        "room": 1,
         "contact": [{
             "name": "Sravani",
-            "phone": "+919109191001"
+            "phone": "+919603348390"
         }, {
-            "name": "",
-            "phone": ""
-        }]
-    },
-    {
-        "id": "ntece5",
-        "name": "Honey Comb Maze",
-        "about": "Non technical event",
-        "contact": [{
-            "name": "Akruthi",
-            "phone": "+919109191001"
-        }, {
-            "name": "",
-            "phone": ""
+            "name": "Nikhil",
+            "phone": "8555813427"
         }]
     }
 ]
