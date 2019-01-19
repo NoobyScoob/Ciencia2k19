@@ -27,16 +27,16 @@ class Home extends Component {
                             <div className="imp__links">
                                 <div className="imp">
                                     <h5>Project Demo Competition</h5>
-                                    <p>Maximum Team Participation - 3 members</p>
+                                    <p>Maximum Team Participation - 3 members.</p>
                                     <a style={{margin: '0.4rem 0'}} href="https://docs.google.com/forms/d/e/1FAIpQLSfLIN5Di3Ub2i_vkV1HAg3On7Ktpt9UTxhGIME_07Ic64Vq5A/viewform" className="btn btn-dark">Participate</a>
                                 </div>
                                 <div className="imp">
                                     <h5>Marathon 5K Run</h5>
-                                    <p>Venue: Jalvihar on 20th January 2019</p>
+                                    <p>Venue: Jalvihar on 20th January 2k19</p>
                                 </div>
                                 <div className="imp">
                                     <h5>Flash Mob</h5>
-                                    <p>Inorbit Mall</p>
+                                    <p>next galleria mall, 18th January 2k19</p>
                                 </div>
                             </div>
                         </div>

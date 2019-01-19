@@ -33,8 +33,8 @@ const Header = (props) => {
                                     </div>
                                 </div>
                             </li>
-                            <li className="nav-pill">
-                                <a className="nav-link" onClick={ props.handleScrollToRef } href="/">Home</a>
+                            <li className="nav-pill auth">
+                                <a className="nav-link" onClick={ props.handleScrollToRef } href="/register">Register</a>
                             </li>
                         </ul>
                     </div>

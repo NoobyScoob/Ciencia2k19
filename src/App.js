@@ -37,7 +37,7 @@ class App extends Component {
       <div className="App">
         <div className="header">
           <Header 
-              about="Ciencia is a technical fest conducted once a year in CVR College of
+              about="Ciencia is a technical fest celebrated once a year in CVR College of
               Engineering,
               where students showcase different technical projects and conduct
               variety of technical/non-technical events and workshops
@@ -47,7 +47,9 @@ class App extends Component {
             />
           <div>
                 <div className="container">
-                    <img className="img-fluid logo" src={require('./img/ciencia_logo.png')} alt="logo" height="600" width="600" />
+                <a href="/">
+                  <img className="img-fluid logo" src={require('./img/ciencia_logo.png')} alt="logo" height="600" width="600" />
+                </a>    
                 </div>
           </div>
 

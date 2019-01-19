@@ -39,6 +39,17 @@ body {
     padding-top: 0.4rem;
 }
 
+.navbar-dark .auth .nav-link {
+    background: #fff;
+    color: #000;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.navbar-dark .auth .nav-link:hover {
+    box-shadow: 2px 2px 4px 4px #000;
+    color: #000;
+}
 
 .header h1 {
     font-size: 3rem;
