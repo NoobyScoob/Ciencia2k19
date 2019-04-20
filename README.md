@@ -1,5 +1,7 @@
 # Ciencia 2K19
-### A web app created with React
+### A website for the technical festival Ciencia conducted once a year at CVR College of Engineering.
+
+Live link of the project - [Ciencia2k19](https://ciencia2k19.000webhostapp.com/).
 
 ## How to run
 
