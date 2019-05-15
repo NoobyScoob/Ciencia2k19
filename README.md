@@ -1,5 +1,17 @@
 # Ciencia 2K19
-### A website for the technical festival Ciencia conducted once a year at CVR College of Engineering.
+A website for the technical fest. Ciencia hosted by CVR College of Engineering.
+
+## Features
+ * Responsive
+ * Event Catalog
+ * Event Registrations
+ * Conveners Information
+ * Route Map
+ * Progressive Web App
+
+## Designed using
+ * React
+ * Bootstratp4
 
 Live link of the project - [Ciencia2k19](https://ciencia2k19.000webhostapp.com/).
 
