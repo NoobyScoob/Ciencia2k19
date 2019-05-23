@@ -10,7 +10,7 @@ A website for the technical fest. Ciencia hosted by CVR College of Engineering.
  * Progressive Web App
 
 ## Designed using
- * React
+ * ReactJs
  * Bootstratp4
 
 Live link of the project - [Ciencia2k19](https://ciencia2k19.000webhostapp.com/).
